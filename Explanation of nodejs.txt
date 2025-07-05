@@ -1,0 +1,29 @@
+ short explanation covering: 
+Q:What is Node.js? 
+
+ANS:Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to run JavaScript code outside of a browser,                    typically on the server side. It is built on Google’s V8 JavaScript engine, which makes it fast and efficient. 
+
+Q:Key Features of Node.js 
+ANS:Asynchronous and Non-blocking I/O – Handles multiple requests without waiting, ideal for real-time apps 
+
+    Single-threaded but Scalable – Uses event-driven architecture to support thousands of connections 
+
+    High Performance – Runs on the fast Google V8 engine 
+
+    Built-in Modules – Comes with core modules like fs, http, os, etc. 
+
+    npm (Node Package Manager) – Access to a vast ecosystem of open-source packages 
+
+    Cross-platform Support – Works on Windows, macOS, and Linux 
+
+
+Q:Why Node.js is used in Modern Web Development 
+ANS:Allows using JavaScript on both frontend and backend (full-stack development) 
+
+    Ideal for real-time applications like chat apps, live updates, and online games 
+
+    Enables faster development with reusable packages via npm 
+
+    Well-suited for building APIs and microservices 
+
+    Large and active community support
